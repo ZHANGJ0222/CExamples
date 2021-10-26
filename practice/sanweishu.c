@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define SIZE 1000
+#define SIZE 100000
 int main(void)
 {
     int A, B, C, D, E, F;
