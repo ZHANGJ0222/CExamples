@@ -7,7 +7,7 @@ int main(void)
     char b[SIZE] = {0};
     char c[SIZE] = {0};
     char d[SIZE] = {0};
-    printf("请输入两个个非负整数：\n");
+    printf("请输入两个非负整数：\n");
     scanf("%s %s", &a, &b);
     D = SIZE - 1;
     E = SIZE - 1;
